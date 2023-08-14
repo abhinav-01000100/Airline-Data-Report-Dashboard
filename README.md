@@ -3,4 +3,4 @@ A detailed analysis of the airline performance and delay reports in USA between 
 It a first attempt project at displaying my skills required to take a step further into the field of data science.
 The dashboards are clear to understand and highly interactive making them easy to understand and view different data individually if required.
 
-You can view the dataset from the link to my kaggle [https://www.kaggle.com/datasets/abhinavdubey00/us-airline-data](account)
+You can view the dataset from the link to my kaggle [account](https://www.kaggle.com/datasets/abhinavdubey00/us-airline-data).
